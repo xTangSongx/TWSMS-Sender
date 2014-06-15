@@ -1,0 +1,14 @@
+{
+  "name": "TWSMS Sender",
+  "description": "SMS Sender (Used TWSMS)",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "TangSong",
+    "url": "http://www.plurk.com/tangsong"
+  },
+  "default_locale": "en",
+  "fullscreen": true
+}
